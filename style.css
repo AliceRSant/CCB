@@ -1,0 +1,17 @@
+body
+{
+text-align: center;
+
+background: #cccccc;
+}
+
+h1
+{font-size: 25px}
+
+p
+{font-sizee: 20px}
+
+em strong
+{
+color: darkred
+}
